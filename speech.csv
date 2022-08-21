@@ -1,0 +1,5 @@
+TC,Step,type,action,timeout,log ok,log error
+TC_001,1,tts,Hey Landrover,1,1,0
+TC_001,2,tts,Tune to AM,1,1,0
+TC_001,3,tts,Tune to FM,1,1,0
+TC_001,4,touch,"1000,10",1,result_ok,result_error
